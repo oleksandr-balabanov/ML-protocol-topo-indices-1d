@@ -4,7 +4,7 @@
 
 Contains code for <a href="https://arxiv.org/abs/2008.07268">https://arxiv.org/abs/2008.07268</a>. 
 
-This work is closely related to <a href=https://github.com/mats-granath/topo-augmentation-ML-protocol>topo-augmentation-ML-protocol</a> based on <a href="https://arxiv.org/abs/1908.03469">https://arxiv.org/abs/1908.03469</a>.
+This work is closely related to the repository <a href=https://github.com/mats-granath/topo-augmentation-ML-protocol>topo-augmentation-ML-protocol</a> based on <a href="https://arxiv.org/abs/1908.03469">https://arxiv.org/abs/1908.03469</a>.
 
 
 Here we show how:
