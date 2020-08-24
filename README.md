@@ -41,5 +41,5 @@ The required libraries are matplotlib, numpy, jupyter, and tensorflow (tensorflo
 
 
 
-The code is given in format of jupyter notebooks. There are three folders correspoding to three different cases considered in our article: 1d topological systems respecting chiral (class AIII), particle-hole (class D), or inversion symmetry. Each folder contains seperate files for creating the symmetry-respecting matrices, generating the parents, producing the training data from the parents, training the neural network classifiers. 
+The code is given in format of jupyter notebooks. There are three folders correspoding to three different cases considered in our article: 1d topological systems respecting the chiral (class AIII), particle-hole (class D), or inversion symmetry. Each folder contains seperate files for creating the symmetry-respecting matrices, generating the parents, producing the training data from the parents, training the neural network classifiers. 
 
